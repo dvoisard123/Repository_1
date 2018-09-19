@@ -6,9 +6,9 @@
 
 int main(void) {
 
-	int x;
+	float x;
 
-	scanf("%d", &x);
-	printf("%d", x); 
+	scanf("%f", &x);
+	printf("%f", x); 
 
 }
